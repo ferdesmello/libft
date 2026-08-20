@@ -1,5 +1,7 @@
 *This project has been created as part of the 42 curriculum by ferde-so.*
 
+# libft
+
 ## Description
 
 `libft` is a custom implementation of a selection of C standard library functions, built to deepen the student's knowledge of pointers, memory management, and string manipulation in C. The goal of this project is to recreate fundamental functions from `libc` (e.g., presented in the headers `<string.h>`, `<stdlib.h>`, and `<unistd.h>`) with the same behavior as the original ones, and other functions with no direct counterpart in `libc`.
